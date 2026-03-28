@@ -13,17 +13,6 @@ I am building strong foundations in:
 
 ---
 
-## 📁 Folder Structure
-
-sessions/
-- session-01-basics.sql
-- session-02-wildcards-distinct-limit.sql
-- session-03-logical-operators.sql
-- session-04-joins.sql
-- session-05-subqueries-case.sql
-
----
-
 ## 🛠 Tools Used
 - MySQL
 - MySQL Workbench
